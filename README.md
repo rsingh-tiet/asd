@@ -9,7 +9,7 @@ In this dataset the label is the questionnaire's own scoring rule:
 
 So the "100% accuracy" reported in many papers measures how well a model copies the AQ-10 score. It does **not** show that the model can detect autism.
 
-## Overview of the experiments
+## Overview of the experiments for Ablation Study
 
 | Information available | E1 | E2 | E3 | E4 | E5 |
 | --- | :---: | :---: | :---: | :---: | :---: |
@@ -58,6 +58,10 @@ LR · SVM · k-NN · Naive Bayes · Decision Tree · Random Forest · AdaBoost �
 
 ## Data
 F. Thabtah, *Autistic Spectrum Disorder Screening Data for Children / Adolescent*, UCI ML Repository, 2017. <https://archive.ics.uci.edu/dataset/419>
+
+## Paper
+
+Read the paper on Overleaf: <https://www.overleaf.com/project/6b0908fccf620310d8a0ca5a>
 
 ## Disclaimer
 This is research code. It is not a diagnostic tool. An AQ-10 score is a screening result, not a clinical diagnosis.
